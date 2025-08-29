@@ -1,0 +1,13 @@
+# Ignore local configs & secrets
+.env
+config.py
+schemas.py
+services/
+uploads/
+models/
+
+# Ignore local dev files
+__pycache__/
+.venv/
+node_modules/
+*.pyc
