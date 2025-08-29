@@ -240,7 +240,6 @@ __marimo__/
 
 
 .env
-config.py
 schemas.py
 services/
 uploads/
